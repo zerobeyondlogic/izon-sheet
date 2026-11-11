@@ -79,6 +79,6 @@ globalThis.IZON_DATA = {
       30
     ]
   ],
-  "source": "./sources/page-1.jpg",
+  "source": "https://x.com/sukosuko_sukoya/status/2120191503662457039",
   "creator": "https://space.bilibili.com/337168962"
 };

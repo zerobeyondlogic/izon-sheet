@@ -191,7 +191,7 @@
 
   function footer() {
     const u = t();
-    return `<footer class="credit">${u.original}（<a href="${data.source}" target="_blank" rel="noopener noreferrer">原图 / 原画像</a>）<br>
+    return `<footer class="credit"><a href="${data.source}" target="_blank" rel="noopener noreferrer">${u.original}</a><br>
       ${u.creator}<a href="${data.creator}" target="_blank" rel="noopener noreferrer">beyondlogic</a></footer>`;
   }
 

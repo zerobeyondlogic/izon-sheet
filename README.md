@@ -6,4 +6,4 @@
 
 运行 npm start 后访问 http://127.0.0.1:4175/ ，也可直接打开 public/index.html。
 
-原图位于 public/sources/。日文按原图转录，中文为网页翻译。原题：健屋花那；网页制作：beyondlogic。
+原图位于 public/sources/。日文按原图转录，中文为网页翻译。[原题：健屋花那](https://x.com/sukosuko_sukoya/status/2120191503662457039)；网页制作：beyondlogic。

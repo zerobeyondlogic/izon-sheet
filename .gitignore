@@ -1,0 +1,4 @@
+dist/
+.openai/
+adapt.cjs
+node_modules/
